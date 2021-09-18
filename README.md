@@ -1,4 +1,4 @@
-# X-47m
+# X-47m HUD
 X-47m Custom HUD and flight controls 
 
 This site is for the distribution of the LUA code for the X-47m. The X-47m is a compactable pocket rocket for Dual Universe and is currently exclusively available to members of ChimerA. The cockpit and programming board DRM will be removed upon request to allow uprades or the use of a different HUD. It has been tested with ArchHud v1.4.11 running in 'cockpit' mode in place of the built-in custom HUD. See the ArchHud GitHub site for installation instructions. The code on this page will be the latest version of the custom fligth HUD and can be used to updgrade the ship code or replace it if you changed out the original HUD.  You can contact me on Discord at: KVeen#3678 if you have any questions. The flight controls here are intended specifically for the X-47m but could be adapted for any pocket rocket using a cockpit controller with a databank and programming board.
