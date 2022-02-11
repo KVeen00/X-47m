@@ -19,6 +19,7 @@ A current limitation with DU is that custom HUD's cannot be direclty used with c
   4) Enjoy your flight!
   5) The programming board will automatically exit once you leave the cockpit so you will have to re-activate it manually before re-entering the cockpit.
 
+NOTE: This limitation was removed with a recent update. The current cockpit LUA code will now generate the flight HUD without activating the programming board. Once updated, the PB is no longer neccessary
 
 **Custom HUD features**
 
